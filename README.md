@@ -1,6 +1,6 @@
 # COBOL ASCII Robot Art Program - "COLBOT"
 
-This simple COBOL program displays an ASCII art robot along with the message "BEEP BOP". The robot ASCII art is rendered in the terminal when the program is executed.
+This simple COBOL program displays an ASCII art robot "COLBOT", along with the message "BEEP BOP". The robot ASCII art is rendered in the terminal when the program is executed.
 
 ## Instructions
 
