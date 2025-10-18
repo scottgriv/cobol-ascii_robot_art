@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** COBOL <br>
 **Category:** Console Application <br>
-**Order:** 27 <br>
+**Order:** 26 <br>
 
 ## Parameters
 
